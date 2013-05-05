@@ -4,7 +4,7 @@ import scalariform.formatter.preferences._
 
 name := "gcs"
 
-version := "0.1.0-RC1"
+version := "0.1.0-RC2"
 
 organization := "sand"
 

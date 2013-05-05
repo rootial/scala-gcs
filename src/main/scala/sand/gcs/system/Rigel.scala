@@ -37,7 +37,7 @@ object Rigel {
     val dimension = args(1).toInt
     val outputFilename = args(2)
     val curvature = args(3).toInt
-    val primariesFile = if (args.length == 4) Some(args(3)) else None
+    val primariesFile = if (args.length == 5) Some(args(4)) else None
 
     val distances = new MapStore()
     val landmarks = mutable.Set.empty[Int]

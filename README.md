@@ -7,7 +7,7 @@ with your own GCS provided.
 ## Immediately Relevant
 API Online: http://current.cs.ucsb.edu/rigel/scala-gcs/api/#package
 
-Download JAR: http://current.cs.ucsb.edu/rigel/scala-gcs/scala-gcs-0.1.0-RC1.jar
+Download JAR: http://current.cs.ucsb.edu/rigel/scala-gcs/scala-gcs-0.1.0-RC2.jar
 
 The JAR file contains all non-JDK6 dependencies including the Scala
 standard library and the dependencies used, so the only dependencies
